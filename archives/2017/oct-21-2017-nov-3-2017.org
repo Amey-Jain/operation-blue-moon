@@ -29,16 +29,6 @@
   :wpd-bhavin192: 0.3
   :wpd-ashwanig: 5
   :END:
-** TODO Problems Chapter 1, K-R
-   :PROPERTIES:
-   :ESTIMATED: 2
-   :ACTUAL: 
-   :OWNER: amey
-   :ID: WRITE.1508975131
-   :TASKID: WRITE.1508975131
-   :END:      
-   :LOGBOOK:
-   :END:
 ** Watch Grafana screencasts [0/10]
    :PROPERTIES:
    :ESTIMATED: 10
@@ -74,6 +64,45 @@
    :ID: DEV.1509163640
    :TASKID: DEV.1509163640
    :END:      
+** DONE Chapter 1 Wire shark exercises
+   CLOSED: [2017-12-20 Wed 10:36]
+   :PROPERTIES:
+   :ESTIMATED: 1.5
+   :ACTUAL:    
+   :ID: WRITE.1509684801
+   :TASKID: WRITE.1509684801
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-11-03 Fri 10:58]--[2017-11-03 Fri 11:34] =>  0:36
+   CLOCK: [2017-11-03 Fri 10:28]--[2017-11-03 Fri 10:55] =>  0:27
+   :END:      
+** CLOSED Application layer -- HTTP
+   :PROPERTIES:
+   :ESTIMATED:
+   :ACTUAL:
+   :OWNER: amey
+   :ID: READ.1509604651
+   :TASKID: READ.1509604651
+   :END:
+   :LOGBOOK:
+   CLOCK: [2017-11-02 Thu 14:47]--[2017-11-02 Thu 15:18] =>  0:31
+   :END:
+** DONE Problems Chapter 1, K-R
+   CLOSED: [2017-11-02 Thu 11:54]
+   :PROPERTIES:
+   :ESTIMATED: 2
+   :ACTUAL: 2.36
+   :OWNER: amey
+   :ID: WRITE.1508975131
+   :TASKID: WRITE.1508975131
+   :END:      
+   :LOGBOOK:
+   CLOCK: [2017-11-02 Thu 11:40]--[2017-11-02 Thu 11:54] =>  0:14
+   CLOCK: [2017-11-02 Thu 10:26]--[2017-11-02 Thu 10:52] =>  0:26
+   CLOCK: [2017-11-02 Thu 07:58]--[2017-11-02 Thu 08:54] =>  0:56
+   CLOCK: [2017-11-01 Wed 21:02]--[2017-11-01 Wed 21:06] =>  0:04
+   CLOCK: [2017-11-01 Wed 20:11]--[2017-11-01 Wed 20:53] =>  0:42
+   :END:
 ** DONE ISPs, backbones and peering (Norton2010,RFC 2901)
    CLOSED: [2017-10-31 Tue 10:51]
    :PROPERTIES:
